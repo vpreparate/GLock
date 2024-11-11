@@ -6,7 +6,7 @@ using:
    pip install httpx requests beautifulsoup4 PyQt5
    python QtPARSOK.py
  ```
-paste the page url and analyze...\n
+paste the page url and analyze...<br>
 select classes...\n
 set the page change parameter:\n
 example:\n
