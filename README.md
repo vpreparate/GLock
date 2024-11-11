@@ -6,24 +6,24 @@ using:
    pip install httpx requests beautifulsoup4 PyQt5
    python QtPARSOK.py
  ```
-paste the page url and analyze...
-select classes...
-set the page change parameter:
-example:
-https://my_cool_shop/?p=92   \\\ page 1
-https://my_cool_shop/?p=184   \\\ page 2
-in pagination setup in url copy:
-https://my_cool_shop/
-variable:
-p
-start page:
-92
-end page:
-920
-increment:
-92
+paste the page url and analyze...\n
+select classes...\n
+set the page change parameter:\n
+example:\n
+https://my_cool_shop/?p=92   \\\ page 1\n
+https://my_cool_shop/?p=184   \\\ page 2\n
+in pagination setup in url copy:\n
+https://my_cool_shop/\n
+variable:\n
+p\n
+start page:\n
+92\n
+end page:\n
+920\n
+increment:\n
+92\n
 ....
-data will be collected and written to the csv table
+data will be collected and written to the csv table\n
 
 
 вставьте урл страницы и про анализируйте...
