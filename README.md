@@ -46,4 +46,4 @@ p<br>
 данные будут собраны и записаны в csv таблицу<br>
 
 Видео с ДЕМОНстрацией \\\ Video to DEMONstration:<br>
-<a link>https://dzen.ru/video/watch/6731bceb93efae59cab07045</a><br>
+<a text=link>https://dzen.ru/video/watch/6731bceb93efae59cab07045</a><br>
