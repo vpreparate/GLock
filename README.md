@@ -47,3 +47,5 @@ p<br>
 
 Видео с ДЕМОНстрацией \\\ Video to DEMONstration:<br>
 <a href=https://dzen.ru/video/watch/6731bceb93efae59cab07045 > link to video </a><br>
+<br>
+if not difficult, share bitcoin 0.00051 to wallet 3AAFoA19oxsDg1dEyXYQT5VoqPfBTiYLUx
